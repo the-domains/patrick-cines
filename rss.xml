@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Patrick Cines]]></title>
+        <description><![CDATA[Patrick Cines]]></description>
+        <link>https://thegrid.ai/patrick-cines/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 10 Oct 2015 20:33:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/patrick-cines/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://patrickcines.com/wp-content/uploads/2015/02/DSCF1408.jpg">]]></description>
+            <link>https://thegrid.ai/patrick-cines/09c3829b-61cb-41bf-b133-081f1126233b/index.html</link>
+            <guid isPermaLink="false">09c3829b-61cb-41bf-b133-081f1126233b</guid>
+            <pubDate>Sat, 10 Oct 2015 20:29:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

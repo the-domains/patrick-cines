@@ -1,8 +1,6 @@
 name: Patrick Cines
 favicon: null
-layout_spectrum: 0.76081
-typography_spectrum: 0.72297
-title: Patrick Cines
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -17,16 +15,13 @@ opengraph:
   appId: null
 color:
   brandColors:
+    - '#050505'
     - '#ffffff'
-    - '#808080'
-    - '#bfbfbf'
-    - '#cccccc'
-    - '#efefef'
+    - '#80807e'
+    - '#3e4651'
+    - '#cacbcc'
   brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.75
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: shares
-    item: 09c3829b-61cb-41bf-b133-081f1126233b
-    url: null
+purpose: []

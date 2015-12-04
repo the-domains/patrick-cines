@@ -1,7 +1,7 @@
 name: Patrick Cines
 favicon: null
-layout_spectrum: 0.4973
-typography_spectrum: 0.53514
+layout_spectrum: 0.9781
+typography_spectrum: 0.47003
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#80807e'
     - '#3e4651'
     - '#cacbcc'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.875
+  lightness: 0.6875
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []

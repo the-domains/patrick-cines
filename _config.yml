@@ -1,19 +1,4 @@
-name: Patrick Cines
-favicon: null
-layout_spectrum: 0.9781
 typography_spectrum: 0.47003
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#050505'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6875
   saturation: 0.8125
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9781
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Patrick Cines
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Patrick Cines
 purpose: []
